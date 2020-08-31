@@ -1,14 +1,392 @@
 {
-  "data": [
-    {
-      "date": "01-JAN-20",
-      "hours": "REG"
-
-    },
-    {
-      "date": "15-JAN-20",
-      "hours": "REG"
-
-    }
-  ]
+    "data": [
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "10",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "15-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "10",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "11035",
+            "EP3_WORK_ORDER": "P8E2ENG3A",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "5035",
+            "EP3_WORK_ORDER": "P854ENG3P",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "5667",
+            "EP3_WORK_ORDER": "P8ZZENG3A",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "12427",
+            "EP3_WORK_ORDER": "P8ZZENGTR",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "14220",
+            "EP3_WORK_ORDER": "P8E5ENG3N",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "12373",
+            "EP3_WORK_ORDER": "P8E8ENGD1",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "12373",
+            "EP3_WORK_ORDER": "P8E8ENGD1",
+            "TOTAL_HRS": "3",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "5667",
+            "EP3_WORK_ORDER": "P8ZZENG3A",
+            "TOTAL_HRS": "3",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "9175",
+            "EP3_WORK_ORDER": "P8ZAENGD0",
+            "TOTAL_HRS": "3",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "7539",
+            "EP3_WORK_ORDER": "P8ZZENGA4",
+            "TOTAL_HRS": "3",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "7285",
+            "EP3_WORK_ORDER": "P855ENG3A",
+            "TOTAL_HRS": "3",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "13084",
+            "EP3_WORK_ORDER": "P8E9ENG3B",
+            "TOTAL_HRS": "3",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "5667",
+            "EP3_WORK_ORDER": "P8ZZENG3A",
+            "TOTAL_HRS": "2",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "11867",
+            "EP3_WORK_ORDER": "P8ZZENGA6",
+            "TOTAL_HRS": "4",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "9175",
+            "EP3_WORK_ORDER": "P8ZAENGD0",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "7539",
+            "EP3_WORK_ORDER": "P8ZZENGA4",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "11021",
+            "EP3_WORK_ORDER": "P8E1ENG31",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "13109",
+            "EP3_WORK_ORDER": "P8EAENG31",
+            "TOTAL_HRS": "4",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "12530",
+            "EP3_WORK_ORDER": "P8E5ENG3A",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "11834",
+            "EP3_WORK_ORDER": "P866ENGDZ",
+            "TOTAL_HRS": "5",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "12652",
+            "EP3_WORK_ORDER": "P8ZZENG3H",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "01-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "11869",
+            "EP3_WORK_ORDER": "P8ZZENGA7",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "01-JAN-20",
+            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "11035",
+            "EP3_WORK_ORDER": "P8E2ENG3A",
+            "TOTAL_HRS": "4",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "5035",
+            "EP3_WORK_ORDER": "P854ENG3P",
+            "TOTAL_HRS": "1",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "OT",
+            "EP3_TYPE_ID": "12427",
+            "EP3_WORK_ORDER": "P8ZZENGTR",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "14220",
+            "EP3_WORK_ORDER": "P8E5ENG3N",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "12373",
+            "EP3_WORK_ORDER": "P8E8ENGD1",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "12373",
+            "EP3_WORK_ORDER": "P8E8ENGD1",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "9175",
+            "EP3_WORK_ORDER": "P8ZAENGD0",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "7285",
+            "EP3_WORK_ORDER": "P855ENG3A",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "13084",
+            "EP3_WORK_ORDER": "P8E9ENG3B",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "9175",
+            "EP3_WORK_ORDER": "P8ZAENGD0",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "11021",
+            "EP3_WORK_ORDER": "P8E1ENG31",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "13109",
+            "EP3_WORK_ORDER": "P8EAENG31",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "12530",
+            "EP3_WORK_ORDER": "P8E5ENG3A",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "11834",
+            "EP3_WORK_ORDER": "P866ENGDZ",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        },
+        {
+            "DATE_OF_ENTRY": "16-JAN-20",
+            "HOURS_TYPE_CODE": "REG",
+            "EP3_TYPE_ID": "12652",
+            "EP3_WORK_ORDER": "P8ZZENG3H",
+            "TOTAL_HRS": "8",
+            "PERIOD_START": "16-JAN-20",
+            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
+            "PERSON_ID": "tzg1lb"
+        }
+    ]
 }
