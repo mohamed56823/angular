@@ -1,5 +1,4 @@
-{
-    "db": [
+[
         {
             "dateOfEntry": "01-JAN-21"
         },
@@ -10,4 +9,4 @@
             "dateOfEntry": "01-JAN-2df"
         }
     ]
-}
+
