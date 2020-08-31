@@ -269,27 +269,7 @@
             "PERIOD_START": "16-JAN-20",
             "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
             "PERSON_ID": "tzg1lb"
-        },
-        {
-            "DATE_OF_ENTRY": "16-JAN-20",
-            "HOURS_TYPE_CODE": "REG",
-            "EP3_TYPE_ID": "9175",
-            "EP3_WORK_ORDER": "P8ZAENGD0",
-            "TOTAL_HRS": "8",
-            "PERIOD_START": "16-JAN-20",
-            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
-            "PERSON_ID": "tzg1lb"
-        },
-        {
-            "DATE_OF_ENTRY": "16-JAN-20",
-            "HOURS_TYPE_CODE": "REG",
-            "EP3_TYPE_ID": "11021",
-            "EP3_WORK_ORDER": "P8E1ENG31",
-            "TOTAL_HRS": "8",
-            "PERIOD_START": "16-JAN-20",
-            "TIME_TICKET_NBR": "20200116_HM_A S,D_tzg1lb",
-            "PERSON_ID": "tzg1lb"
-        },
+        }
 
     ]
 }
