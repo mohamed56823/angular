@@ -9,35 +9,7 @@
             "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
             "PERSON_ID": "tzg1lb"
         },
-        {
-            "DATE_OF_ENTRY": "15-JAN-20",
-            "HOURS_TYPE_CODE": "REG",
-            "EP3_TYPE_ID": "10",
-            "TOTAL_HRS": "8",
-            "PERIOD_START": "01-JAN-20",
-            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
-            "PERSON_ID": "tzg1lb"
-        },
-        {
-            "DATE_OF_ENTRY": "01-JAN-20",
-            "HOURS_TYPE_CODE": "REG",
-            "EP3_TYPE_ID": "11035",
-            "EP3_WORK_ORDER": "P8E2ENG3A",
-            "TOTAL_HRS": "8",
-            "PERIOD_START": "01-JAN-20",
-            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
-            "PERSON_ID": "tzg1lb"
-        },
-        {
-            "DATE_OF_ENTRY": "01-JAN-20",
-            "HOURS_TYPE_CODE": "REG",
-            "EP3_TYPE_ID": "5035",
-            "EP3_WORK_ORDER": "P854ENG3P",
-            "TOTAL_HRS": "8",
-            "PERIOD_START": "01-JAN-20",
-            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
-            "PERSON_ID": "tzg1lb"
-        },
+
         {
             "DATE_OF_ENTRY": "01-JAN-20",
             "HOURS_TYPE_CODE": "REG",
@@ -54,36 +26,6 @@
             "EP3_TYPE_ID": "12427",
             "EP3_WORK_ORDER": "P8ZZENGTR",
             "TOTAL_HRS": "8",
-            "PERIOD_START": "01-JAN-20",
-            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
-            "PERSON_ID": "tzg1lb"
-        },
-        {
-            "DATE_OF_ENTRY": "01-JAN-20",
-            "HOURS_TYPE_CODE": "REG",
-            "EP3_TYPE_ID": "14220",
-            "EP3_WORK_ORDER": "P8E5ENG3N",
-            "TOTAL_HRS": "8",
-            "PERIOD_START": "01-JAN-20",
-            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
-            "PERSON_ID": "tzg1lb"
-        },
-        {
-            "DATE_OF_ENTRY": "01-JAN-20",
-            "HOURS_TYPE_CODE": "REG",
-            "EP3_TYPE_ID": "12373",
-            "EP3_WORK_ORDER": "P8E8ENGD1",
-            "TOTAL_HRS": "8",
-            "PERIOD_START": "01-JAN-20",
-            "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
-            "PERSON_ID": "tzg1lb"
-        },
-        {
-            "DATE_OF_ENTRY": "01-JAN-20",
-            "HOURS_TYPE_CODE": "OT",
-            "EP3_TYPE_ID": "12373",
-            "EP3_WORK_ORDER": "P8E8ENGD1",
-            "TOTAL_HRS": "3",
             "PERIOD_START": "01-JAN-20",
             "TIME_TICKET_NBR": "20200101_HM_A S,D_tzg1lb",
             "PERSON_ID": "tzg1lb"
