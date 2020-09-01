@@ -1,94 +1,274 @@
-[
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771",
-      "geo": {
-        "lat": "-43.9509",
-        "lng": "-34.4618"
-      }
-    },
-    "phone": "010-692-6593 x09125",
-    "website": "anastasia.net",
-    "company": {
-      "name": "Deckow-Crist",
-      "catchPhrase": "Proactive didactic contingency",
-      "bs": "synergize scalable supply-chains"
-    }
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
-    "address": {
-      "street": "Douglas Extension",
-      "suite": "Suite 847",
-      "city": "McKenziehaven",
-      "zipcode": "59590-4157",
-      "geo": {
-        "lat": "-68.6102",
-        "lng": "-47.0653"
-      }
-    },
-    "phone": "1-463-123-4447",
-    "website": "ramiro.info",
-    "company": {
-      "name": "Romaguera-Jacobson",
-      "catchPhrase": "Face to face bifurcated interface",
-      "bs": "e-enable strategic applications"
-    }
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "username": "Karianne",
-    "email": "Julianne.OConner@kory.org",
-    "address": {
-      "street": "Hoeger Mall",
-      "suite": "Apt. 692",
-      "city": "South Elvis",
-      "zipcode": "53919-4257",
-      "geo": {
-        "lat": "29.4572",
-        "lng": "-164.2990"
-      }
-    },
-    "phone": "493-170-9623 x156",
-    "website": "kale.biz",
-    "company": {
-      "name": "Robel-Corkery",
-      "catchPhrase": "Multi-tiered zero tolerance productivity",
-      "bs": "transition cutting-edge web services"
-    }
-  }
-]
+
+    "data": [
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "10",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "5667",
+            "epWorkOrder": "P8ZZENG3A",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "12427",
+            "epWorkOrder": "P8ZZENGTR",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "5667",
+            "epWorkOrder": "P8ZZENG3A",
+            "totalHours": "3",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "9175",
+            "epWorkOrder": "P8ZAENGD0",
+            "totalHours": "3",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "7539",
+            "epWorkOrder": "P8ZZENGA4",
+            "totalHours": "3",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "7285",
+            "epWorkOrder": "P855ENG3A",
+            "totalHours": "3",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "13084",
+            "epWorkOrder": "P8E9ENG3B",
+            "totalHours": "3",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "5667",
+            "epWorkOrder": "P8ZZENG3A",
+            "totalHours": "2",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "11867",
+            "epWorkOrder": "P8ZZENGA6",
+            "totalHours": "4",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "9175",
+            "epWorkOrder": "P8ZAENGD0",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "7539",
+            "epWorkOrder": "P8ZZENGA4",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "11021",
+            "epWorkOrder": "P8E1ENG31",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "13109",
+            "epWorkOrder": "P8EAENG31",
+            "totalHours": "4",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "12530",
+            "epWorkOrder": "P8E5ENG3A",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "11834",
+            "epWorkOrder": "P866ENGDZ",
+            "totalHours": "5",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "12652",
+            "epWorkOrder": "P8ZZENG3H",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "11869",
+            "epWorkOrder": "P8ZZENGA7",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "11035",
+            "epWorkOrder": "P8E2ENG3A",
+            "totalHours": "4",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "5035",
+            "epWorkOrder": "P854ENG3P",
+            "totalHours": "1",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "12427",
+            "epWorkOrder": "P8ZZENGTR",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "14220",
+            "epWorkOrder": "P8E5ENG3N",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "12373",
+            "epWorkOrder": "P8E8ENGD1",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "12373",
+            "epWorkOrder": "P8E8ENGD1",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "9175",
+            "epWorkOrder": "P8ZAENGD0",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "7285",
+            "epWorkOrder": "P855ENG3A",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "13084",
+            "epWorkOrder": "P8E9ENG3B",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        }
+
+    ]
