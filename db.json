@@ -1,7 +1,275 @@
 {
     "data": [
         {
-            "date": "01-JAN-20"
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "10",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "5667",
+            "epWorkOrder": "P8ZZENG3A",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "12427",
+            "epWorkOrder": "P8ZZENGTR",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "5667",
+            "epWorkOrder": "P8ZZENG3A",
+            "totalHours": "3",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "9175",
+            "epWorkOrder": "P8ZAENGD0",
+            "totalHours": "3",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "7539",
+            "epWorkOrder": "P8ZZENGA4",
+            "totalHours": "3",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "7285",
+            "epWorkOrder": "P855ENG3A",
+            "totalHours": "3",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "13084",
+            "epWorkOrder": "P8E9ENG3B",
+            "totalHours": "3",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "5667",
+            "epWorkOrder": "P8ZZENG3A",
+            "totalHours": "2",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "11867",
+            "epWorkOrder": "P8ZZENGA6",
+            "totalHours": "4",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "9175",
+            "epWorkOrder": "P8ZAENGD0",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "7539",
+            "epWorkOrder": "P8ZZENGA4",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "11021",
+            "epWorkOrder": "P8E1ENG31",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "13109",
+            "epWorkOrder": "P8EAENG31",
+            "totalHours": "4",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "12530",
+            "epWorkOrder": "P8E5ENG3A",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "11834",
+            "epWorkOrder": "P866ENGDZ",
+            "totalHours": "5",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "12652",
+            "epWorkOrder": "P8ZZENG3H",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "01-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "11869",
+            "epWorkOrder": "P8ZZENGA7",
+            "totalHours": "8",
+            "periodStart": "01-JAN-20",
+            "timeTicketNumber": "20200101_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "11035",
+            "epWorkOrder": "P8E2ENG3A",
+            "totalHours": "4",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "5035",
+            "epWorkOrder": "P854ENG3P",
+            "totalHours": "1",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "OT",
+            "epTypeId": "12427",
+            "epWorkOrder": "P8ZZENGTR",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "14220",
+            "epWorkOrder": "P8E5ENG3N",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "12373",
+            "epWorkOrder": "P8E8ENGD1",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "12373",
+            "epWorkOrder": "P8E8ENGD1",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "9175",
+            "epWorkOrder": "P8ZAENGD0",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "7285",
+            "epWorkOrder": "P855ENG3A",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
+        },
+        {
+            "dateOfEntry": "16-JAN-20",
+            "hoursTypeCode": "REG",
+            "epTypeId": "13084",
+            "epWorkOrder": "P8E9ENG3B",
+            "totalHours": "8",
+            "periodStart": "16-JAN-20",
+            "timeTicketNumber": "20200116_HM_A S,D_tzg1lb",
+            "personId": "tzg1lb"
         }
-      ]
+
+    ]
 }
